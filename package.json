@@ -30,7 +30,7 @@
     "serve-favicon": "2.3.2",
     "string-hash": "1.1.1",
     "sync-request": "3.0.1",
-    "underscore": "1.8.3",
+    "underscore": "1.13.0",
     "winston": "2.3.0"
   },
   "devDependencies": {

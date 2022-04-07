@@ -11,7 +11,7 @@
     "exportapi": "slc loopback:export-api-def -o spec.yaml"
   },
   "dependencies": {
-    "async": "2.1.4",
+    "async": "3.2.2",
     "bcryptjs": "2.3.0",
     "bower": "1.8.0",
     "cf-deployment-tracker-client": "^0.1.2",
@@ -20,18 +20,18 @@
     "heartbeats": "5.0.1",
     "helmet": "3.1.0",
     "http": "0.0.0",
-    "loopback": "2.36.0",
+    "loopback": "3.0.0",
     "loopback-boot": "2.23.0",
     "loopback-component-explorer": "2.7.0",
-    "loopback-connector-postgresql": "2.7.0",
-    "loopback-datasource-juggler": "2.53.0",
+    "loopback-connector-postgresql": "5.0.0",
+    "loopback-datasource-juggler": "4.17.0",
     "randomstring": "1.1.5",
     "request": "2.79.0",
     "serve-favicon": "2.3.2",
     "string-hash": "1.1.1",
     "sync-request": "3.0.1",
     "underscore": "1.8.3",
-    "winston": "2.3.0"
+    "winston": "3.3.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
